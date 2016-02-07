@@ -65,7 +65,7 @@
             <div class="dienst clearfix">
                 <img src="images/diensten/health-balls.png" alt="">
                 <h3>HR Advies en Ondersteuning in de Zorg</h3>
-                <p class="intro">Door mijn vele jaren ervaring in de zorg ben ik snel inzetbaar. Dat kan zijn voor vragenstukken als functiewaardering, functiebeschrijving, werving en selectie recruiting maar ook voor projecten.</p>
+                <p class="intro">Door mijn vele jaren ervaring in de zorg ben ik snel inzetbaar. Dat kan zijn voor vragenstukken als functiewaardering, functiebeschrijving, recruiting maar ook voor projecten.</p>
                 <p>Ik heb expertise op het gebied van loopbaanontwikkeling,  competentie- management, invoering van E-HRM, bijvoorbeeld bij het jaargesprek of E-learning. Ik kan u adviseren op het gebeid van formatiebeheer, een formatieplaatsenplan opstellen en u helpen bij de inrichting van een personeelsinformatiesysteem.</p>
             </div>
             <div class="dienst clearfix">
